@@ -106,21 +106,6 @@ A secure health-tech platform that enables QR-based access to encrypted medical 
 
 ---
 
-### 🤖 AI Chat Assistant
-A personalized AI chatbot system with persistent memory and contextual understanding.
-
-**Highlights**
-- 🧠 User-specific memory storage  
-- 🔄 Context-aware conversations  
-- 📂 Integration with user data  
-- ⚡ Fast & scalable backend  
-
-**Tech Stack**
-- Flask  
-- MongoDB  
-- OpenAI API  
----
-
 ## 🧠 Engineering Mindset
 
 ✔ Scalable backend logic  
