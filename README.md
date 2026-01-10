@@ -37,17 +37,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/hardikdhingra150?style=social)
 
 ---
-## 📈 Contribution Graph
-
-<img src="https://ghchart.rshah.org/hardikdhingra150" alt="Hardik's GitHub Contribution Graph" />
-
-## 🧩 Top Languages
-
-<img 
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hardikdhingra150&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  loading="lazy"
-/>
----
 
 ## 🏗️ High-Impact Projects
 
