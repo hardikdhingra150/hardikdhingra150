@@ -58,26 +58,6 @@ A blockchain-based NFT gaming platform where players can claim characters, battl
 
 ---
 
-### 🍽️ CHEF AI – Food Waste Management System
-An AI-powered platform designed to reduce food waste and optimize food inventory management.
-
-**Highlights**
-- 🤖 AI chatbot for food waste awareness  
-- 📊 Dashboard for analytics & trends  
-- 🍳 Recipe generator using available ingredients  
-- 📦 Inventory & expiry tracking  
-- 📷 Waste scanning via camera  
-- ❤️ Donation management with food banks  
-
-**Tech Stack**
-- Frontend: React, Vite, Tailwind CSS  
-- Backend: Node.js, Express  
-- Database: Supabase (PostgreSQL)  
-- AI: Google Gemini 2.5 Flash  
-- Hosting: Vercel  
-
----
-
 ### 🏥 HealthQR – Secure Health Document Sharing
 A secure health-tech platform that enables QR-based access to encrypted medical documents.
 
