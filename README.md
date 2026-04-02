@@ -22,7 +22,7 @@ const Hardik = {
 ---
 
 
-### Skills
+### Tech Stack
 
 <div align="center">
 
