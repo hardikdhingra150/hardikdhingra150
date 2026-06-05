@@ -1,61 +1,76 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Hardik Dhingra profile banner</title>
-  <desc id="desc">A custom dark developer console banner for Hardik Dhingra.</desc>
+  <title id="title">Hardik Dhingra macOS profile banner</title>
+  <desc id="desc">A macOS themed developer window banner for Hardik Dhingra.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#071014"/>
-      <stop offset="0.45" stop-color="#111827"/>
-      <stop offset="1" stop-color="#2A1628"/>
+    <linearGradient id="wallpaper" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A0F1F"/>
+      <stop offset="0.38" stop-color="#0F2A4A"/>
+      <stop offset="0.72" stop-color="#3A1D55"/>
+      <stop offset="1" stop-color="#111827"/>
     </linearGradient>
-    <linearGradient id="accent" x1="94" y1="52" x2="1080" y2="308" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#F59E0B"/>
-      <stop offset="0.48" stop-color="#06B6D4"/>
-      <stop offset="1" stop-color="#A855F7"/>
+    <linearGradient id="auroraA" x1="80" y1="320" x2="1110" y2="10" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#007AFF"/>
+      <stop offset="0.45" stop-color="#AF52DE"/>
+      <stop offset="1" stop-color="#FF9500"/>
     </linearGradient>
-    <linearGradient id="panel" x1="92" y1="84" x2="1108" y2="300" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#111827"/>
-      <stop offset="1" stop-color="#0B1120"/>
+    <linearGradient id="window" x1="120" y1="76" x2="1080" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1E293B" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#0B1020" stop-opacity="0.98"/>
     </linearGradient>
-    <filter id="softGlow" x="-20%" y="-30%" width="140%" height="160%" color-interpolation-filters="sRGB">
-      <feGaussianBlur stdDeviation="18" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.06 0 0 0 0 0.72 0 0 0 0 0.83 0 0 0 0.45 0"/>
+    <linearGradient id="toolbar" x1="150" y1="92" x2="1050" y2="92" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F8FAFC" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#94A3B8" stop-opacity="0.06"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#000000" flood-opacity="0.38"/>
+    </filter>
+    <filter id="blurGlow" x="-20%" y="-30%" width="140%" height="160%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="28" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.18 0 0 0 0 0.45 0 0 0 0 1 0 0 0 0.55 0"/>
       <feBlend in="SourceGraphic" mode="screen"/>
     </filter>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+    <pattern id="grain" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M0 30H60M30 0V60" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
     </pattern>
   </defs>
 
-  <rect width="1200" height="360" rx="30" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="30" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#wallpaper)"/>
+  <rect width="1200" height="360" rx="34" fill="url(#grain)"/>
+  <circle cx="250" cy="278" r="150" fill="#007AFF" opacity="0.22" filter="url(#blurGlow)"/>
+  <circle cx="936" cy="76" r="170" fill="#AF52DE" opacity="0.24" filter="url(#blurGlow)"/>
+  <circle cx="1000" cy="278" r="120" fill="#FF9500" opacity="0.13" filter="url(#blurGlow)"/>
 
-  <circle cx="1040" cy="72" r="130" fill="#A855F7" opacity="0.13" filter="url(#softGlow)"/>
-  <circle cx="122" cy="296" r="140" fill="#F59E0B" opacity="0.12" filter="url(#softGlow)"/>
-  <circle cx="632" cy="14" r="120" fill="#06B6D4" opacity="0.10" filter="url(#softGlow)"/>
+  <g filter="url(#shadow)">
+    <rect x="96" y="54" width="1008" height="252" rx="24" fill="#020617" fill-opacity="0.72"/>
+    <rect x="120" y="76" width="960" height="210" rx="20" fill="url(#window)" stroke="#FFFFFF" stroke-opacity="0.16"/>
+    <rect x="120" y="76" width="960" height="48" rx="20" fill="url(#toolbar)"/>
+    <path d="M120 124H1080" stroke="#FFFFFF" stroke-opacity="0.12"/>
 
-  <rect x="70" y="58" width="1060" height="244" rx="22" fill="#030712" stroke="url(#accent)" stroke-width="2"/>
-  <rect x="92" y="84" width="1016" height="196" rx="16" fill="url(#panel)" stroke="#334155" stroke-opacity="0.7"/>
+    <circle cx="154" cy="100" r="7.5" fill="#FF5F57"/>
+    <circle cx="178" cy="100" r="7.5" fill="#FFBD2E"/>
+    <circle cx="202" cy="100" r="7.5" fill="#28C840"/>
 
-  <circle cx="126" cy="114" r="7" fill="#EF4444"/>
-  <circle cx="150" cy="114" r="7" fill="#F59E0B"/>
-  <circle cx="174" cy="114" r="7" fill="#22C55E"/>
-  <path d="M92 140H1108" stroke="#334155" stroke-opacity="0.65"/>
+    <rect x="462" y="91" width="276" height="18" rx="9" fill="#0F172A" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <text x="600" y="105" text-anchor="middle" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">hardikdhingra150/README.md</text>
 
-  <text x="126" y="177" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">hardik@github</text>
-  <text x="270" y="177" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">~/builder-os</text>
-  <text x="410" y="177" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">$ launch profile</text>
+    <text x="154" y="158" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">hardik@github</text>
+    <text x="298" y="158" fill="#34C759" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">~/builder-os</text>
+    <text x="438" y="158" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">$ launch profile</text>
 
-  <text x="126" y="224" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="0">Hardik Dhingra</text>
-  <text x="130" y="258" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="0">Full-stack developer building web apps, AI agents, and Web3 experiments.</text>
+    <text x="154" y="212" fill="#F8FAFC" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="60" font-weight="800" letter-spacing="0">Hardik Dhingra</text>
+    <text x="158" y="248" fill="#D7DEE9" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="0">Full-stack developer building web apps, AI agents, and Web3 experiments.</text>
 
-  <g transform="translate(824 162)">
-    <rect x="0" y="0" width="228" height="82" rx="14" fill="#020617" stroke="#475569"/>
-    <text x="22" y="33" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">status:</text>
-    <text x="90" y="33" fill="#22C55E" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">shipping</text>
-    <text x="22" y="61" fill="#FBBF24" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">stack:</text>
-    <text x="82" y="61" fill="#E5E7EB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">React + AI + Web3</text>
+    <g transform="translate(804 152)">
+      <rect x="0" y="0" width="224" height="88" rx="18" fill="#0B1020" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <path d="M18 28H206" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="22" y="22" fill="#60A5FA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">system status</text>
+      <circle cx="24" cy="48" r="5" fill="#34C759"/>
+      <text x="40" y="53" fill="#E5E7EB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">shipping</text>
+      <circle cx="24" cy="70" r="5" fill="#FF9500"/>
+      <text x="40" y="75" fill="#E5E7EB" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">React + AI + Web3</text>
+    </g>
   </g>
 
-  <path d="M103 303C263 276 337 322 494 295C626 272 720 250 860 286C941 307 1016 315 1110 290" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
-  <path d="M102 306C267 280 335 327 496 300C624 278 719 256 858 292C940 313 1020 320 1111 296" stroke="#0F172A" stroke-width="8" stroke-linecap="round" opacity="0.55"/>
+  <path d="M130 300C260 270 390 320 520 292C670 260 770 258 900 292C970 310 1026 310 1080 292" stroke="url(#auroraA)" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+  <path d="M130 304C260 276 392 324 522 298C672 268 768 266 898 298C970 316 1028 318 1081 300" stroke="#020617" stroke-width="10" stroke-linecap="round" opacity="0.45"/>
 </svg>
