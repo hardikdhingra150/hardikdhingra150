@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://hardikdhingra.online"><img src="https://img.shields.io/badge/portfolio-hardikdhingra.online-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:hardikdhingra150@gmail.com"><img src="https://img.shields.io/badge/email-hardikdhingra150%40gmail.com-b91c1c?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/Hardikkkk10"><img src="https://img.shields.io/badge/x-%40Hardikkkk10-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://hardikdhingra.online"><img src="https://img.shields.io/badge/portfolio-hardikdhingra.online-007AFF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:hardikdhingra150@gmail.com"><img src="https://img.shields.io/badge/email-hardikdhingra150%40gmail.com-FF3B30?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/Hardikkkk10"><img src="https://img.shields.io/badge/x-%40Hardikkkk10-1D1D1F?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
 <br />
@@ -83,8 +83,8 @@ I am especially interested in projects where the frontend, backend, and intellig
 </p>
 
 <p align="center">
-  <a href="https://github.com/hardikdhingra150?tab=repositories"><img src="https://img.shields.io/badge/explore-repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  <a href="https://github.com/hardikdhingra150?tab=overview"><img src="https://img.shields.io/badge/view-contributions-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="View contributions" /></a>
+  <a href="https://github.com/hardikdhingra150?tab=repositories"><img src="https://img.shields.io/badge/explore-repositories-007AFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://github.com/hardikdhingra150?tab=overview"><img src="https://img.shields.io/badge/view-contributions-34C759?style=for-the-badge&logo=github&logoColor=white" alt="View contributions" /></a>
 </p>
 
 ---
