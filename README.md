@@ -79,23 +79,13 @@ I am especially interested in projects where the frontend, backend, and intellig
 ## GitHub Console
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hardikdhingra150&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=Hardik%27s%20GitHub%20Console" alt="Hardik's GitHub stats" />
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=hardikdhingra150&theme=github-dark-blue&hide_border=true&card_width=495" alt="Hardik's GitHub streak" />
+  <img width="640" src="https://github-readme-streak-stats-eight.vercel.app?user=hardikdhingra150&theme=github-dark-blue&hide_border=true&card_width=640" alt="Hardik's GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikdhingra150&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+  <a href="https://github.com/hardikdhingra150?tab=repositories"><img src="https://img.shields.io/badge/explore-repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+  <a href="https://github.com/hardikdhingra150?tab=overview"><img src="https://img.shields.io/badge/view-contributions-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="View contributions" /></a>
 </p>
-
----
-
-## 2026 Quest Log
-
-- Ship one polished full-stack product that people can actually use.
-- Build deeper AI-agent projects beyond simple chat wrappers.
-- Deploy and document stronger Solidity projects.
-- Contribute to open-source projects with useful fixes.
-- Write more about what I learn while building.
 
 ---
 
