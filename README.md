@@ -1,95 +1,116 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/hardik-banner.svg" alt="Hardik Dhingra profile banner" width="100%" />
+</p>
 
-![Hardik Dhingra](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:995f24,55:7a315e,100:161b22&text=Hardik%20Dhingra&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Web3%20Explorer%20%7C%20AI%20Builder&descAlignY=58&descSize=18)
+<p align="center">
+  <a href="https://hardikdhingra.online"><img src="https://img.shields.io/badge/portfolio-hardikdhingra.online-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:hardikdhingra150@gmail.com"><img src="https://img.shields.io/badge/email-hardikdhingra150%40gmail.com-b91c1c?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/Hardikkkk10"><img src="https://img.shields.io/badge/x-%40Hardikkkk10-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-hardikdhingra.online-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hardikdhingra.online)
-[![Email](https://img.shields.io/badge/Email-hardikdhingra150%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikdhingra150@gmail.com)
-[![X](https://img.shields.io/badge/X-%40Hardikkkk10-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hardikkkk10)
+<br />
 
-</div>
-
----
-
-```js
-const Hardik = {
-  location: "Gurugram, Haryana, India",
-  role: "Full-Stack Developer",
-  superpower: "Turning caffeine into code",
-  currentlyExploring: ["AI Agents", "Smart Contracts", "Open Source"],
-  askMeAbout: ["React", "Firebase", "Python", "Blockchain", "LLMs"],
-  funFact: "My best bugs appear at 2AM, and so do my best fixes."
-};
+```txt
+Hardik Dhingra / builder profile
+Location      Gurugram, Haryana, India
+Mode          Full-stack developer
+Focus         Web apps, AI agents, smart contracts
+Personality   Curious, product-minded, late-night debugger
 ```
 
-## About Me
+I am a developer who likes building things that feel usable, not just complete. My sweet spot is the space between clean frontends, practical backend logic, and new tech that is worth turning into real products.
 
-I build full-stack products with a focus on clean interfaces, useful backend logic, and experiments that mix web development with AI and Web3.
-
-Right now I am sharpening my skills around scalable web apps, smart contract workflows, and agentic AI tools. I like projects that are practical, slightly ambitious, and fun enough to keep improving after the first version works.
-
-## Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-6b7280?style=for-the-badge&logo=c&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=000000)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=ffffff)
-
-</div>
-
-## What I Like Building
-
-| Area | What I enjoy |
-| --- | --- |
-| Full-stack apps | React interfaces, APIs, auth flows, dashboards, and real product workflows |
-| AI tools | Agent experiments, LLM integrations, automation, and practical developer utilities |
-| Web3 | Smart contracts, Solidity projects, wallet-connected apps, and blockchain fundamentals |
-| Open source | Small fixes, useful documentation, and code that helps other developers move faster |
-
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hardikdhingra150&theme=tokyonight&hide_border=true&border_radius=8)
-
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardikdhingra150&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikdhingra150&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)
-
-</div>
-
-## Current Focus
-
-- Building better full-stack projects with React, Node.js, Firebase, and MongoDB.
-- Exploring AI agents, LLM-powered apps, and practical automation.
-- Learning deeper Web3 patterns with Solidity and smart contract tooling.
-- Contributing more consistently to open source.
-
-## Connect
-
-<div align="center">
-
-Open to collaboration, project ideas, and conversations around full-stack development, AI, and Web3.
-
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hardikdhingra.online)
-[![Mail](https://img.shields.io/badge/Send%20Mail-ef4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hardikdhingra150@gmail.com)
-
-</div>
+I am currently exploring AI agents, Web3 systems, and full-stack product engineering. I care about shipping, learning in public, and writing code that my future self can still understand.
 
 ---
 
-<div align="center">
-  <sub>Building, breaking, learning, shipping.</sub>
-</div>
+## Builder OS
+
+| Layer | Tools I reach for |
+| --- | --- |
+| Interface | React, Tailwind CSS, JavaScript |
+| Backend | Node.js, Firebase, MongoDB, SQL |
+| Systems | C, C++, Java, Linux, Git |
+| Web3 | Solidity, smart contracts, wallet flows |
+| AI | LLM apps, agents, automation experiments |
+| Workflow | Postman, GitHub, terminal, docs |
+
+---
+
+## Current Signal
+
+```mermaid
+flowchart LR
+  A["Idea"] --> B["Prototype"]
+  B --> C["Ship"]
+  C --> D["Break"]
+  D --> E["Learn"]
+  E --> B
+
+  X["AI Agents"] --> B
+  Y["Web3"] --> C
+  Z["Full-Stack Apps"] --> C
+```
+
+I am especially interested in projects where the frontend, backend, and intelligence layer all matter. Dashboards, developer tools, automation systems, wallet-connected apps, and products with real user workflows are the kind of work that keeps me locked in.
+
+---
+
+## Tech Palette
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,tailwind,python,java,cpp,c,solidity,firebase,mongodb,git,linux,postman&perline=7" alt="Tech stack icons" />
+</p>
+
+---
+
+## Things I Like Building
+
+```txt
+01. Clean web apps with fast, readable interfaces
+02. Authenticated dashboards and real product workflows
+03. AI utilities that remove boring manual work
+04. Smart-contract experiments and wallet-connected apps
+05. Small open-source fixes that make someone else's day easier
+```
+
+---
+
+## GitHub Console
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hardikdhingra150&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=Hardik%27s%20GitHub%20Console" alt="Hardik's GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=hardikdhingra150&theme=github-dark-blue&hide_border=true&card_width=495" alt="Hardik's GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikdhingra150&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+## 2026 Quest Log
+
+- Ship one polished full-stack product that people can actually use.
+- Build deeper AI-agent projects beyond simple chat wrappers.
+- Deploy and document stronger Solidity projects.
+- Contribute to open-source projects with useful fixes.
+- Write more about what I learn while building.
+
+---
+
+## Contact
+
+The best conversations start with a project idea, a bug that refuses to behave, or a product that needs a sharper first version.
+
+<p align="center">
+  <a href="https://hardikdhingra.online"><strong>Portfolio</strong></a>
+  &nbsp;/&nbsp;
+  <a href="mailto:hardikdhingra150@gmail.com"><strong>Email</strong></a>
+  &nbsp;/&nbsp;
+  <a href="https://x.com/Hardikkkk10"><strong>X</strong></a>
+</p>
+
+<p align="center">
+  <sub>Building in public, debugging in private, shipping whenever the build turns green.</sub>
+</p>
