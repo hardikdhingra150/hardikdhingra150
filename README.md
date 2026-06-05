@@ -2,18 +2,13 @@
   <img src="./assets/hardik-banner.svg" alt="Hardik Dhingra profile banner" width="100%" />
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="https://hardikdhingra.online"><img src="https://img.shields.io/badge/portfolio-hardikdhingra.online-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:hardikdhingra150@gmail.com"><img src="https://img.shields.io/badge/email-hardikdhingra150%40gmail.com-b91c1c?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/Hardikkkk10"><img src="https://img.shields.io/badge/x-%40Hardikkkk10-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
-<table>
-  <tr>
-    <td align="center"><strong>based in</strong><br />Gurugram, India</td>
-    <td align="center"><strong>building</strong><br />Full-stack + AI + Web3</td>
-    <td align="center"><strong>online</strong><br /><a href="https://hardikdhingra.online">hardikdhingra.online</a></td>
-    <td align="center"><strong>contact</strong><br /><a href="mailto:hardikdhingra150@gmail.com">email</a> / <a href="https://x.com/Hardikkkk10">x</a></td>
-  </tr>
-</table>
-
-</div>
+<br />
 
 ```txt
 Hardik Dhingra / builder profile
