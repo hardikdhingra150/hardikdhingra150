@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="700" viewBox="0 0 1280 700" role="img" aria-labelledby="t d">
+<title id="t">Hardik Dhingra — HD-150 Garage. Built to push limits.</title><desc id="d">Custom motorsport cover with a red open-wheel racing car, five starting lights, and a developer driver card.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern><pattern id="flag" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="12" height="12" fill="#efeee7"/><rect x="12" y="12" width="12" height="12" fill="#efeee7"/></pattern><linearGradient id="body" x1="0" x2="1"><stop stop-color="#99180e"/><stop offset=".48" stop-color="#f23b2c"/><stop offset=".6" stop-color="#ff5e43"/><stop offset="1" stop-color="#b42015"/></linearGradient></defs>
+<rect width="1280" height="700" fill="#101010"/><rect width="1280" height="700" fill="url(#grid)"/>
+<path d="M830 0H925L680 700H585Z" fill="#ffffff" opacity=".018"/><path d="M1020 0H1060L815 700H775Z" fill="#f23b2c" opacity=".08"/>
+<path d="M40 74H1240M40 611H1240" stroke="#393939"/>
+<g font-family="monospace" font-size="13" fill="#efeee7" letter-spacing="1.5"><text x="40" y="42">HD—150 / ENGINEERING GARAGE</text><text x="1240" y="42" text-anchor="end" fill="#a7a7a2">GURUGRAM, INDIA / DEVELOPER PROFILE</text></g>
+<g fill="#f23b2c"><circle cx="44" cy="116" r="8"/><circle cx="74" cy="116" r="8"/><circle cx="104" cy="116" r="8"/><circle cx="134" cy="116" r="8"/><circle cx="164" cy="116" r="8"/></g><text x="195" y="121" fill="#b5b4af" font-family="monospace" font-size="11" letter-spacing="2">LIGHTS OUT. IDEAS ON.</text>
+<g font-family="Arial, Helvetica, sans-serif" font-style="italic" font-weight="900" font-size="104" letter-spacing="-6"><text x="35" y="252" fill="#efeee7">HARDIK</text><text x="35" y="354" fill="#f23b2c">DHINGRA.</text></g>
+<text x="43" y="411" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="29" fill="#efeee7">BUILT TO PUSH LIMITS.</text>
+<g font-family="monospace" font-size="13" fill="#aaa9a4"><text x="43" y="454">FULL-STACK DEVELOPER</text><text x="43" y="480">WEB APPS / AI AGENTS / WEB3</text></g>
+<rect x="43" y="526" width="258" height="44" fill="#f23b2c"/><text x="61" y="554" font-family="monospace" font-size="14" font-weight="bold" fill="#fff">LIGHTS OUT. BUILD ON.</text>
+<text x="1158" y="578" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-style="italic" font-size="192" font-weight="900" fill="none" stroke="#ffffff" stroke-opacity=".1">150</text>
+<!-- Original top-view open-wheel car illustration -->
+<g transform="translate(945 332) rotate(20)">
+<ellipse cy="18" rx="134" ry="229" fill="#000" opacity=".5"/>
+<g stroke="#666" stroke-width="6"><path d="M-105-113L0-89L105-113M-105-96L0-58L105-96M-101 126L0 103L101 126M-101 149L0 126L101 149"/></g>
+<g fill="#090909" stroke="#5b5b55" stroke-width="2"><rect x="-131" y="-149" width="52" height="89" rx="12"/><rect x="79" y="-149" width="52" height="89" rx="12"/><rect x="-134" y="105" width="58" height="97" rx="12"/><rect x="76" y="105" width="58" height="97" rx="12"/></g>
+<g stroke="#e7bc4d" stroke-width="2" opacity=".8"><path d="M-125-137V-73M125-137V-73M-128 118V189M128 118V189"/></g>
+<path d="M-17-205H17L26-63L64-8L65 94L37 168H-37L-65 94L-64-8L-26-63Z" fill="url(#body)" stroke="#ff7460"/>
+<path d="M-106-199H106V-174H29L19-160H-19L-29-174H-106Z" fill="#f23b2c" stroke="#ff7460"/>
+<path d="M-104-184H104M-89-198V-175M89-198V-175" stroke="#181818" stroke-width="4"/>
+<path d="M-86 171H86V205H-86Z" fill="#f23b2c" stroke="#ff7460"/><path d="M-81 186H81" stroke="#141414" stroke-width="9"/>
+<path d="M-19-54Q0-69 19-54L27 31Q0 57-27 31Z" fill="#111" stroke="#777" stroke-width="3"/>
+<ellipse cy="6" rx="13" ry="17" fill="#efeee7"/><path d="M-12 2H12" stroke="#212121" stroke-width="7"/>
+<path d="M-29-35Q0-66 29-35M0-52V-3" fill="none" stroke="#efeee7" stroke-width="6"/>
+<path d="M-52 37L-32 113M52 37L32 113" stroke="#121212" stroke-width="14"/><path d="M-7 57H7L18 149H-18Z" fill="#191919"/>
+<text x="0" y="-97" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold" font-size="23" fill="#fff">150</text>
+<text x="0" y="145" text-anchor="middle" font-family="monospace" font-size="12" fill="#efeee7">HD</text>
+</g>
+<g fill="none" stroke="#6d6d66"><path d="M1058 186H1189V165"/></g>
+<g fill="#b1b0aa" font-family="monospace" font-size="10" letter-spacing="1"><text x="1236" y="151" text-anchor="end">SPEC / HD-150</text><text x="1240" y="590" text-anchor="end">POWERED BY CURIOSITY</text></g>
+<rect x="40" y="637" width="48" height="24" fill="url(#flag)"/>
+<g font-family="monospace" font-size="12" fill="#efeee7" letter-spacing="1"><text x="111" y="654">DESIGN WITH INTENT. ENGINEER WITH CARE.</text><text x="1240" y="654" text-anchor="end" fill="#a7a7a2">@hardikdhingra150</text></g>
+</svg>
