@@ -1,0 +1,32 @@
+name: GitHub Grid Run
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: hd150-grid-run
+  cancel-in-progress: false
+jobs:
+  move:
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.issue.title, 'HD150|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - name: Process race moves
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/race.py --process
+      - name: Save the current race board
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md assets/race-board.svg game/state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update GitHub Grid Run"
+            git push
+          fi
