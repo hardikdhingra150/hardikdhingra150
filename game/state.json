@@ -1,1 +1,11 @@
-{"score":0,"best":0,"turn":1,"lane":"centre","blocked":["left","right"],"over":false}
+{
+  "score": 1,
+  "best": 1,
+  "turn": 2,
+  "lane": "centre",
+  "blocked": [
+    "right",
+    "left"
+  ],
+  "over": false
+}

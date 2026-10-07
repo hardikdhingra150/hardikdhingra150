@@ -36,7 +36,7 @@
 
 <!-- RACE-CONTROLS:START -->
 
-[◀ LEFT](https://github.com/hardikdhingra150/hardikdhingra150/issues/new?title=HD150%7C1%7Cleft&body=GitHub%20Grid%20Run%20move.%20Submit%20this%20issue%20to%20play.) &nbsp; / &nbsp; [◆ CENTRE](https://github.com/hardikdhingra150/hardikdhingra150/issues/new?title=HD150%7C1%7Ccentre&body=GitHub%20Grid%20Run%20move.%20Submit%20this%20issue%20to%20play.) &nbsp; / &nbsp; [RIGHT ▶](https://github.com/hardikdhingra150/hardikdhingra150/issues/new?title=HD150%7C1%7Cright&body=GitHub%20Grid%20Run%20move.%20Submit%20this%20issue%20to%20play.)
+[◀ LEFT](https://github.com/hardikdhingra150/hardikdhingra150/issues/new?title=HD150%7C2%7Cleft&body=GitHub%20Grid%20Run%20move.%20Submit%20this%20issue%20to%20play.) &nbsp; / &nbsp; [◆ CENTRE](https://github.com/hardikdhingra150/hardikdhingra150/issues/new?title=HD150%7C2%7Ccentre&body=GitHub%20Grid%20Run%20move.%20Submit%20this%20issue%20to%20play.) &nbsp; / &nbsp; [RIGHT ▶](https://github.com/hardikdhingra150/hardikdhingra150/issues/new?title=HD150%7C2%7Cright&body=GitHub%20Grid%20Run%20move.%20Submit%20this%20issue%20to%20play.)
 
 <!-- RACE-CONTROLS:END -->
 
